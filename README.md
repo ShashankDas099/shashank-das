@@ -31,7 +31,8 @@
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn]: (https://www.linkedin.com/in/shashank-das-455402283/)
-- [Email]: (shashankdas319@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/shashank-das-455402283/)
+- [Email](mailto:shashankdas319@gmail.com)
+
 
 ---
